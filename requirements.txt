@@ -1,0 +1,7 @@
+torch>=2.4
+e3nn
+ase>=3.26
+numpy
+scikit-learn
+spglib
+scipy
