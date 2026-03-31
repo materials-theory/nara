@@ -2,7 +2,7 @@
   <img src="./nara_logo.png" width="50%" title="NARA" alt="NARA"/>
 </p>
 
-[![PyPI version](https://img.shields.io/pypi/nara-fa.svg)](https://pypi.python.org/pypi/nara-fa/)[![DOI](https://img.shields.io/badge/DOI-10.20517%2Faiagent.2025.13-blue)](https://dx.doi.org/10.20517/aiagent.2025.13)
+[![PyPI version](https://img.shields.io/pypi/v/nara-fa.svg)](https://pypi.python.org/pypi/nara-fa/)[![DOI](https://img.shields.io/badge/DOI-10.20517%2Faiagent.2025.13-blue)](https://dx.doi.org/10.20517/aiagent.2025.13)
 
 
 # NARA: Nature-inspired Algorithm for Robust Atomic structure search
