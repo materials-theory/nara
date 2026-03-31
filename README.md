@@ -7,7 +7,7 @@
 
 # NARA: Nature-inspired Algorithm for Robust Atomic structure search
 
-***NARA*** is an atomic structure exploration framework based on the Firefly algorithm. The name ***NARA*** originates from the Korean expression nal-a (날-아), which represents the flying motion of a firefly. It has been developed as a companion package to ***LLUMYS***, a machine learning interatomic potential that provides the “light” of the firefly.
+***NARA*** is an atomic structure exploration framework based on the Firefly algorithm. The name ***NARA*** originates from the Korean expression nal-a (날-아), which represents the flying motion of a firefly. It has been developed as a companion package to ***LLUMYS***, a machine learning interatomic potential that provides the "light" of the firefly.
 
 ## Prerequisites
 
